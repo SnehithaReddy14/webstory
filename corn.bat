@@ -1,0 +1,1 @@
+C:\xampp\php\php.exe C:\xampp\htdocs\r1\comic_mailer.php
